@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "server part restaurant website",
+  "main": "index.js",
+  "repository": "https://github.com/AliakseiHryhoryeu/restaurant-website",
+  "author": "AliakseiHryhoryeu",
+  "license": "ISC",
+  "scripts": {
+    "start": "nodemon server/app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.4.0",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.16"
+  }
+}
