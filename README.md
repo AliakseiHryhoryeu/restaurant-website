@@ -1,12 +1,18 @@
 # Restaurant-website
-### In this repository i develop client-server restaurant application
 
 ### Frontend:
 + NextJS / React
-+ TypeScript
 + Redux / Redux Saga
++ GraphQL / Apollo
 + Material UI
++ TypeScript
 + SCSS / CSS+modules
+
+#### Backend
++ NestJS
++ GraphQL
++ MongoDB
++ TypeScript
 
 ## Figma
 https://www.figma.com/file/d6hH9vjtFmjIUpgyKLHlth/Restaurant
