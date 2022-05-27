@@ -7,13 +7,12 @@
 - NextJS / React
 - Redux / Redux Saga
 - GraphQL / Apollo
-- Material UI
 - TypeScript
 - SCSS / CSS+modules
 
 #### Backend
 
-- NestJS
+- NestJS (or ExpressJS)
 - GraphQL
 - MongoDB
 - TypeScript
